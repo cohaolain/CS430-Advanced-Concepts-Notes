@@ -1,4 +1,4 @@
-// © Ciarán Ó hAoláin 2019
+// © Ciarán Ó hAoláin 2020
 // Shopping List Smart Contract
 pragma solidity ^0.6.0;
 
